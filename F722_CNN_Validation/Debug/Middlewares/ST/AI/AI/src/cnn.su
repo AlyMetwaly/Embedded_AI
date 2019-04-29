@@ -1,0 +1,7 @@
+cnn.c:729:9:ai_cnn_get_info	152	static
+cnn.c:790:10:ai_cnn_get_error	8	static
+cnn.c:796:10:ai_cnn_create	16	static
+cnn.c:806:11:ai_cnn_destroy	0	static
+cnn.c:812:9:ai_cnn_init	16	static
+cnn.c:827:8:ai_cnn_run	0	static
+cnn.c:834:8:ai_cnn_forward	0	static
